@@ -16,7 +16,7 @@ have any doubts.
 Identification of Output-Error (OE) Models using Generalized Spectral Decomposition. 
 by Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan,
 In 2019 Fifth Indian Control Conference (ICC) 2019 Jan 9 (pp. 28-33). IEEE.
-This paper won the Best Student Paper Award at ICC 2019.
+(Won the Best Student Paper Award)
 
 - Paper: https://ieeexplore.ieee.org/abstract/document/8715582 <br>
 - Poster: https://d-maurya.github.io/files/oe_qz_poster_v3.pdf <br>
